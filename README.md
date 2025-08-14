@@ -17,7 +17,7 @@ An ESP8266 development board (e.g., ESP-12E, NodeMCU).
 Installation
 Clone the repository:
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/ReponSheikh/ESP8266_Multi_Task_RTOS_Example
 cd your-repo-name
 
 Open the project in your IDE:
